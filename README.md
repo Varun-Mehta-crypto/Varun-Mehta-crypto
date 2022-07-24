@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=varun-mehta-crypto&style=flat-square&color=blue)
 
 
-🌱 I’m currently working on **Predictive Maintenance using Flask framework.**
+🌱 I’m currently working on **Personal Project**
 
 💬 Ask me about **Linux  and Clouds related topics**
 
