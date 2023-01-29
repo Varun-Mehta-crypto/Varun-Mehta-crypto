@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=varun-mehta-crypto&style=flat-square&color=blue)
 
 
-🌱 I’m currently working on **Personal Project**
+🌱 I’m currently working in **Capgemini**
 
 💬 Ask me about **Linux  and Clouds related topics**
 
